@@ -1,27 +1,13 @@
 140603
- 
-140603 Bhabat
-140603 Singhpura
-140603 Kishanpura
-140603 Dayalpura
-140603 Patiala Road
-140603 Ambala Highway
-140603 Dhillon Plaza
-140603 Hollywood Plaza
-140603 Maya Garden City
-140603 Savitry Greens
-140603 Orbit Apartments
-140604 Baltana
-140604 Dhakoli के कुछ हिस्से
-140604 Highland Marg के आसपास
-160104 Peer Muchalla
-160104 Dhakoli के कुछ हिस्से
-134112 Panchkula Sector 4, Sector 12
-134109 Panchkula Sector 8, Sector 6, Devi Nagar
-134108 Old Panchkula, GK Panchkula
-134117 Panchkula Sector 20
-134116 Panchkula Sector 26
-134113 Panchkula Sector 15, Industrial Area
-134114 Mansa Devi
-160003 Chandigarh Aerodrome
-160004 Chandigarh Air Force Highground
+140604
+160104
+134112
+134109
+134117
+134108
+134116
+134113
+134114
+160003
+160004
+140306
